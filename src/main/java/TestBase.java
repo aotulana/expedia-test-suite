@@ -7,7 +7,7 @@ import org.testng.annotations.AfterSuite;
 import java.io.File;
 
 /**
- * Created by OKOH on 15/12/2018.
+ * Created by Adebowale on 15/12/2018.
  */
 public class TestBase {
     public static WebDriver driver = null;
